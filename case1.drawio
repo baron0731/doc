@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-07-06T09:25:33.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.3.9" etag="tSLJ_PuCgqyageXfq1FZ" type="github"><diagram id="rWn8-QZY-xuyGxLBcndq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-06T13:49:08.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="3HlVlAOz_HQUnHXYW7ZP" version="13.3.9" type="github">
+  <diagram id="rWn8-QZY-xuyGxLBcndq" name="第1頁">
+    <mxGraphModel dx="1422" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q94pCNZQinOZx8HBAWUU-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="125" width="401" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="q94pCNZQinOZx8HBAWUU-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="125" width="120" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="q94pCNZQinOZx8HBAWUU-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="120" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="q94pCNZQinOZx8HBAWUU-12" value="" style="image;html=1;image=img/lib/clip_art/finance/Pie_Chart_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q94pCNZQinOZx8HBAWUU-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/VISTA/business/png/128/area_chart.png" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="q94pCNZQinOZx8HBAWUU-15" value="1,2,3&lt;br&gt;manager, sales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q94pCNZQinOZx8HBAWUU-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="q94pCNZQinOZx8HBAWUU-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="320" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q94pCNZQinOZx8HBAWUU-17" value="" style="endArrow=classic;html=1;entryX=0.833;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q94pCNZQinOZx8HBAWUU-8" target="q94pCNZQinOZx8HBAWUU-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q94pCNZQinOZx8HBAWUU-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="q94pCNZQinOZx8HBAWUU-19" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-10" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q94pCNZQinOZx8HBAWUU-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="40" as="sourcePoint" />
+            <mxPoint x="560" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q94pCNZQinOZx8HBAWUU-21" value="columnA = 1&lt;br&gt;columnB = url&lt;br&gt;columnC = left" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
